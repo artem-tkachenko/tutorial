@@ -10,6 +10,6 @@
     "@date-io/dayjs": "2.10.0",
     "commander": "2.20.3",
     "lodash": "4.17.20",
-    "react": "16.0.0"
+    "react": "16.14.0"
   }
 }
